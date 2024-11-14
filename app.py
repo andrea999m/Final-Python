@@ -165,7 +165,7 @@ def display_portfolio_comparison(date_range):
     return fig2
     
 
-agregar host
+#agregar host
 if __name__ == "__main__":
     app.run_server(debug=False, host="0.0.0.0", port=10000)
     
