@@ -1,7 +1,8 @@
+pip>=24.0
 dash
 plotly
 pandas==1.5.3
-numpy==1.21.5
+numpy==1.23.5
 yfinance==0.2.12
 pypfopt==1.5.1
 scipy
