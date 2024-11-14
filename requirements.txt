@@ -1,9 +1,9 @@
 dash
 plotly
-pandas
-numpy
-yfinance
-pypfopt
+pandas==1.5.3
+numpy==1.21.5
+yfinance==0.2.12
+pypfopt==1.5.1
 scipy
 matplotlib
 seaborn
