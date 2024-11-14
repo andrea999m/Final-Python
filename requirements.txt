@@ -3,7 +3,7 @@ plotly
 pandas
 numpy
 yfinance
-pyfopt
+pypfopt
 scipy
 matplotlib
 seaborn
