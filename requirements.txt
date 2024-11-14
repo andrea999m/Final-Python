@@ -2,9 +2,9 @@ pip>=24.0
 dash
 plotly
 pandas==1.5.3
-numpy==1.23.5
+numpy>=1.21.6,<=1.23.5
 yfinance==0.2.12
-pypfopt>=1.5.2
+pypfopt==1.5.0
 scipy
 matplotlib
 seaborn
