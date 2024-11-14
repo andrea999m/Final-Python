@@ -1,0 +1,13 @@
+dash
+plotly
+pandas
+numpy
+yfinance
+pyfopt
+scipy
+matplotlib
+seaborn
+dash-bootstrap-components
+plotly.express
+datetime
+gunicorn
