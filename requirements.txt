@@ -1,4 +1,4 @@
-pip>=24.0
+pip>=24.3.1
 dash
 plotly
 pandas==1.5.3
