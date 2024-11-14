@@ -1,4 +1,5 @@
 pip>=24.3.1
+pypfopt
 dash
 plotly
 pandas==1.5.3
